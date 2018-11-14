@@ -7,7 +7,7 @@ package com.example.entity;
 
 /**
  *
- * @author KP112068
+ * @author
  */
 public class Account {
        private String username;
